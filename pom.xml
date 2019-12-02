@@ -59,17 +59,17 @@
 
 	<!-- Mule Dependencies -->
 	<dependencies>
-		<!-- dependency>
+		<dependency>
 			<groupId>org.apache.derby</groupId>
 			<artifactId>derby</artifactId>
 			<version>10.12.1.1</version>
-		</dependency-->
+		</dependency>
 
-		<dependency>
+		<!--dependency>
 			<groupId>org.apache.activemq</groupId>
 			<artifactId>activemq-all</artifactId>
 			<version>5.14.5</version>
-		</dependency>
+		</dependency-->
 
 
 		<!-- Xml configuration -->
